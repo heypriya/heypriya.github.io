@@ -1,1 +1,1 @@
-# iampriya.github.io
+# iampriya.dev
