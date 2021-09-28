@@ -172,7 +172,7 @@ main#container {
 .card p {
     color: var(--h3-color);
     font-size: 14px;
-    width: 90% !important;
+    width: 95% !important;
     margin: 0.3rem;
     padding: 0 2rem;}
 
