@@ -194,7 +194,11 @@ main#container {
     right: 10%;}
 .work h1 {
     width: 40%;}
-
+.work a {
+    text-decoration: none !important;
+    border-bottom: none !important;}
+.work a:hover {
+    color: var(--h1-color);}
 
 /* -- BLOBS -- */
 #topblob {
